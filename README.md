@@ -19,6 +19,7 @@ $ sudo apt-get install ros-noetic-rosserial-arduino
 $ sudo apt-get install ros-noetic-rosserial
 
 $ /usr/bin/python3 -m pip install --upgrade pip
+$ pip install pycnc
 $ pip3 install numpy
 $ pip3 install rospy
 $ pip3 install pycnc
